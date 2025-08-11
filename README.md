@@ -1,4 +1,4 @@
-# Sweggy_Revenu
-Create a sweggy Revenue Dashbord 
+# Swiggy_Revenu
+Create a swiggy Revenue Dashbord 
 
 
